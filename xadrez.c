@@ -1,7 +1,7 @@
 /*
 ============================
 =                          =
-=  Super Trunfo - Cidades  =
+=      Desafio Xadrez      =
 =    by: @fiercelionbr     =
 =          L1onX           =
 =        02/03/2025        =
